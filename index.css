@@ -1,0 +1,21 @@
+.table_style {
+	width: 500px;
+	margin: 0px auto;
+}
+table{
+	width: 100%;
+    font-family: 'Times New Roman', Times, serif;
+}
+table tr td{
+	width: 50%;
+	border: 5px double palegreen;
+	padding: 10px;
+}
+table tr th{
+	border: 5px double palegreen;
+	padding: 10px;
+}
+.zebra{
+	background-color:  black;
+    color: white;
+}
